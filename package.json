@@ -44,6 +44,7 @@
     "@babel/polyfill": "^7.0.0",
     "@babel/preset-env": "^7.1.0",
     "assert": "^1.4.1",
+    "axios": "^0.20.0",
     "babel-loader": "^8.0.4",
     "cache-control-esm": "1.0.0",
     "codecov": "^3.0.0",
@@ -70,17 +71,13 @@
     "snazzy": "^7.0.0",
     "standard": "^14.3.1",
     "webpack": "^4.1.1",
-    "webpack-cli": "^3.1.1",
-    "axios": "0.19.2"
+    "webpack-cli": "^3.1.1"
   },
   "dependencies": {
     "cache-control-esm": "1.0.0",
     "lodash": "^4.17.11",
     "md5": "^2.2.1",
     "whatwg-url": "^7.1.0"
-  },
-  "peerDependencies": {
-    "axios": "0.19.2"
   },
   "size-limit": [
     {
